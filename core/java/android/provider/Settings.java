@@ -5056,6 +5056,13 @@ public final class Settings {
         public static final String VOLUME_MASTER = "volume_master";
 
         /**
+         * Handles QS Panel Themes
+         * 
+         * @hide
+         */
+        public static final String QS_PANEL_STYLE = "qs_panel_style";
+
+        /**
          * Master mono (int 1 = mono, 0 = normal).
          *
          * @hide
